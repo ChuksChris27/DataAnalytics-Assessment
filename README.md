@@ -36,7 +36,7 @@ Classify customers based on their average transaction frequency per month.
   - Low: ≤ 2/month
 
 **Challenges:**  
-- The schema lacked a clear `transaction_date`, so we assumed `created_on` could serve as a proxy.
+- The schema lacked a clear `transaction_date`, so i assumed `created_on` could serve as a proxy.
 
 ---
 
